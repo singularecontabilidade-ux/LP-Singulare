@@ -154,11 +154,15 @@ export default function Home() {
               <ul className="space-y-4">
                 <li className="flex items-center gap-3">
                   <LucidePhone className="w-5 h-5 text-indigo-400" />
-                  <span>(32) 99999-9999</span>
+                  <span>+55(31) 99741-0600</span>
                 </li>
                 <li className="flex items-center gap-3">
                   <LucideMail className="w-5 h-5 text-indigo-400" />
-                  <span>contato@singulare.com.br</span>
+                  <span>singulare@singularecontabilidade.com</span>
+                </li>
+                <li className="flex items-center gap-3">
+                  <LucideMail className="w-5 h-5 text-indigo-400" />
+                  <span>CNPJ: 50123581000127</span>
                 </li>
               </ul>
             </div>
